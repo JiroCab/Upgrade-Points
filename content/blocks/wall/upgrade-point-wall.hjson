@@ -1,0 +1,9 @@
+type: wall
+name: Upgrade Point wall
+size: 1
+health: 390
+requirements: [
+upgrade-points/1
+]
+category: defense
+research: copper-wall
